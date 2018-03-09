@@ -6,10 +6,10 @@ require.config({
     baseUrl: "js/",
     paths: {
         //'css':'css.min', //css加载器
-        'zepto': ["zepto.min"],
-        'echarts':["echarts.min"],
-        'swiper':["swiper.min"],
-        'swiperAnimate':["swiper.animate1.0.2.min"]
+        'zepto': ["zepto"],
+        'echarts':["echarts"],
+        'swiper':["swiper"],
+        'swiperAnimate':["swiperAnimate"]
     },
     shim: {
         "zepto": {
