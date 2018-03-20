@@ -147,7 +147,7 @@ define(['echarts'],function (echarts) {
                     {value: 6, name: 'Vue.js'},
                     {value: 5, name: 'Bootstrap'},
                     {value: 4, name: 'Gulp'},
-                    {value: 3, name: 'AngularJS'}
+                    {value: 4, name: 'webpack'}
 
                 ],
                 itemStyle: {
